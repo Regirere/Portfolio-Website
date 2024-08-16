@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(36, 8, 59);
+}
+
+#wrapper {
+    max-width: 990px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#eightbanner {
+    margin-top: -7px;
+}
+
+#fourbook {
+    margin-top: -7px;
+}
+
+#layoutshowcase {
+    background: url(img/bglayout.png);
+    margin-top: -7px;
+    height: 1045px;
+}
+
+#layouttitle {
+    text-align: center;
+    padding-top: 80px;
+}
+
+#restoranlay {
+    text-align: center;
+    margin-top: 80px;
+}
+
+#hoterulay {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#bakinglay {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#webtitle {
+    text-align: center;
+    padding-top: 80px;
+}
+
+#webshowcase {
+    background: url(img/webbg.png);
+    margin-top: -7px;
+    height: 700px;
+}
+
+#restoranweb {
+    text-align: center;
+    margin-top: 80px;
+}
+
+#hoteruweb {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#mypage {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#contact {
+    background: url(img/bg\ get\ in\ touch.png);
+    margin-top: -7px;
+    height: 600px;
+}
+
+#conttitle {
+    text-align: center;
+    padding-top: 80px;
+}
+
+#email {
+    text-align: center;
+    margin-top: 80px;
+}
+
+#githublink {
+    text-align: center;
+    margin-top: 40px;
+}
